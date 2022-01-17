@@ -1,7 +1,5 @@
 # autocomplete_jquery
-Usando a API api.gov.ao com jQuery para autocompletar dados do Usúario em Form 
+Usando a API com jQuery para autocompletar dados do Usúario via BI/NIF em formulário.  
 
-foi solicitado uma ajuda para implementar API para autocompletar em Javascript e decidi  
-
-<!--Referencia -->
-<!--https://github.com/ribafs/jquery-autocomplete/blob/main/cep-autocomplete.html-->
+Referência >> 
+https://github.com/ribafs/jquery-autocomplete/blob/main/cep-autocomplete.html
