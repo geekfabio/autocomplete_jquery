@@ -1,4 +1,5 @@
-<h1> Descontinuado Obsoleto </h1>
+<h1> Descontinuado, Obsoleto </h1>
+Não utilizar em projeto nenhum
 # autocomplete_jquery
 Usando a API com jQuery para auto completar dados do Usuário via BI/NIF em formulário.  
 
